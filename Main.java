@@ -5,7 +5,7 @@ Public class Main {
 		int width = 6;
 		int area;
 
-		// Calculate the width of a rectangle
+		// Calculate the area of rectangle
 		area = length * width;
 
 		// Print Variables
